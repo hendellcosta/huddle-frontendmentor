@@ -19,9 +19,9 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 
 Run:
 
-`git clone https://github.com/hendellcosta/huddle-lp-frontendmentor.git`
+`git clone https://github.com/hendellcosta/huddle-frontendmentor.git`
 
-`cd huddle-lp-frontendmentor`
+`cd huddle-frontendmentor`
 
 Installation:
 
